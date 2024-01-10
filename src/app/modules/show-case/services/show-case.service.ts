@@ -17,62 +17,62 @@ export class ShowCaseService {
       {
         name: "Pudgy Penguin #1",
         price: 0.2,
-        image: "https://api.pudgypenguins.io/penguin/image/1"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
       },
       {
         name: "Pudgy Penguin #2",
         price: 0.1,
-        image: "https://api.pudgypenguins.io/penguin/image/2"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
       },
       {
         name: "Pudgy Penguin #3",
         price: 0.3,
-        image: "https://api.pudgypenguins.io/penguin/image/3"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png"
       },
       {
         name: "Pudgy Penguin #4",
         price: 0.4,
-        image: "https://api.pudgypenguins.io/penguin/image/4"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png"
       },
       {
         name: "Pudgy Penguin #5",
         price: 0.5,
-        image: "https://api.pudgypenguins.io/penguin/image/5"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png"
       },
       {
         name: "Pudgy Penguin #6",
         price: 0.6,
-        image: "https://api.pudgypenguins.io/penguin/image/6"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png"
       },
       {
         name: "Pudgy Penguin #7",
         price: 0.7,
-        image: "https://api.pudgypenguins.io/penguin/image/7"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png"
       },
       {
         name: "Pudgy Penguin #8",
         price: 0.8,
-        image: "https://api.pudgypenguins.io/penguin/image/8"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png"
       },
       {
         name: "Pudgy Penguin #9",
         price: 0.9,
-        image: "https://api.pudgypenguins.io/penguin/image/9"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png"
       },
       {
         name: "Pudgy Penguin #10",
         price: 0.9,
-        image: "https://api.pudgypenguins.io/penguin/image/10"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png"
       },
       {
         name: "Pudgy Penguin #11",
         price: 0.9,
-        image: "https://api.pudgypenguins.io/penguin/image/11"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png"
       },
       {
         name: "Pudgy Penguin #12",
         price: 0.9,
-        image: "https://api.pudgypenguins.io/penguin/image/12"
+        image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png"
       }
     ]
 
